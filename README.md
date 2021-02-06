@@ -1,0 +1,2 @@
+# webserver
+SquidMC Official Website
