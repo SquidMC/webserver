@@ -1,2 +1,1 @@
-# webserver
-SquidMC Official Website
+# SquidMC Official Webserver
